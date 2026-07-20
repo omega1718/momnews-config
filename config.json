@@ -1,0 +1,4 @@
+{
+  "feedUrlTemplate": "https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko",
+  "defaultKeywords": ["날씨", "건강", "정치", "부동산", "미국", "캘리포니아", "로스앤젤레스", "당뇨"]
+}
