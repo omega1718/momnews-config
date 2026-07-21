@@ -8,6 +8,22 @@
 - 뉴스는 공개된 뉴스 피드에서 불러오며, 기사 원문은 해당 언론사 웹페이지로 연결됩니다.
 - 기사 공유 기능은 iOS 기본 공유 기능을 사용하며, 본 앱은 공유 내역을 기록하지 않습니다.
 
-문의: (dev@teammobile.io)
+문의: dev@teammobile.io
 
 최종 수정일: 2026-07-21
+
+---
+
+# Privacy Policy — Mom News
+
+Mom News ("the App") does not collect, store, or transmit any personal information from its users.
+
+- The App has no account registration and does not request login credentials.
+- Search keywords entered by the user and font size settings are stored only on the user's device.
+- The App does not use analytics tools, advertising identifiers, or location data.
+- News is retrieved from publicly available news feeds, and full articles are opened on the respective publishers' web pages.
+- The article sharing feature uses the iOS system share sheet; the App does not record any sharing activity.
+
+Contact: dev@teammobile.io
+
+Last updated: 2026-07-21
